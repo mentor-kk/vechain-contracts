@@ -1,0 +1,19 @@
+{
+  "name": "vechain-contracts",
+  "version": "1.0.4",
+  "description": "javascript smart contract wrapper for connex driven dapps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vechain",
+    "smart",
+    "contract",
+    "methods",
+    "definitions",
+    "dapp"
+  ],
+  "author": "mentor-kk",
+  "license": "ISC"
+}
